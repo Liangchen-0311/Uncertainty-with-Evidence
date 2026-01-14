@@ -1,0 +1,1602 @@
+[
+    {
+        "is_correct": false,
+        "score_prob": 0.8937019109725952,
+        "score_entropy": -0.4979954957962036,
+        "score_product": -0.053157377371759296,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.078651785850525
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.48926112055778503,
+        "score_entropy": -1.2099241018295288,
+        "score_product": -0.05263961960015706,
+        "score_eu": -0.04868154227733612,
+        "score_au": -1.0813055038452148
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7572487592697144,
+        "score_entropy": -0.9419731497764587,
+        "score_product": -0.05553637850326165,
+        "score_eu": -0.05150214582681656,
+        "score_au": -1.0783313512802124
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.43035560846328735,
+        "score_entropy": -1.5157415866851807,
+        "score_product": -0.05622486717400044,
+        "score_eu": -0.05206073820590973,
+        "score_au": -1.0799859762191772
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.40088558197021484,
+        "score_entropy": -1.3536853790283203,
+        "score_product": -0.05296861659530894,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.0814425945281982
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7648120522499084,
+        "score_entropy": -1.0501407384872437,
+        "score_product": -0.0573706800624052,
+        "score_eu": -0.05321507900953293,
+        "score_au": -1.0780906677246094
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.6636006832122803,
+        "score_entropy": -0.983078122138977,
+        "score_product": -0.05354483636330887,
+        "score_eu": -0.04958677664399147,
+        "score_au": -1.0798208713531494
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7277669906616211,
+        "score_entropy": -1.1686567068099976,
+        "score_product": -0.05740439065298908,
+        "score_eu": -0.05321507900953293,
+        "score_au": -1.0787241458892822
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8043266534805298,
+        "score_entropy": -0.6642711758613586,
+        "score_product": -0.05259210693011518,
+        "score_eu": -0.04878048598766327,
+        "score_au": -1.0781382322311401
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5754302740097046,
+        "score_entropy": -1.1573728322982788,
+        "score_product": -0.04929877665234228,
+        "score_eu": -0.04554079845547676,
+        "score_au": -1.0825189352035522
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.2875579297542572,
+        "score_entropy": -1.4825570583343506,
+        "score_product": -0.05183306904255858,
+        "score_eu": -0.04790419340133667,
+        "score_au": -1.0820152759552002
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.51528000831604,
+        "score_entropy": -1.274519920349121,
+        "score_product": -0.05243812741780651,
+        "score_eu": -0.04848484694957733,
+        "score_au": -1.0815364122390747
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.53089439868927,
+        "score_entropy": -1.1611897945404053,
+        "score_product": -0.05241756273228937,
+        "score_eu": -0.04848484694957733,
+        "score_au": -1.081112265586853
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7336487174034119,
+        "score_entropy": -0.9908808469772339,
+        "score_product": -0.05545502948806558,
+        "score_eu": -0.05139186233282089,
+        "score_au": -1.0790624618530273
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9504563808441162,
+        "score_entropy": -0.3072965741157532,
+        "score_product": -0.055544974213055376,
+        "score_eu": -0.0517241396009922,
+        "score_au": -1.0738694667816162
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9406713247299194,
+        "score_entropy": -0.3295688033103943,
+        "score_product": -0.05371605123499856,
+        "score_eu": -0.04989605024456978,
+        "score_au": -1.0765591859817505
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9569343328475952,
+        "score_entropy": -0.28368043899536133,
+        "score_product": -0.05546726018516335,
+        "score_eu": -0.05161290243268013,
+        "score_au": -1.0746781826019287
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.813049852848053,
+        "score_entropy": -0.7971212267875671,
+        "score_product": -0.052979848365357185,
+        "score_eu": -0.04907975345849991,
+        "score_au": -1.0794644355773926
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.35360586643218994,
+        "score_entropy": -1.4549435377120972,
+        "score_product": -0.05340234772710062,
+        "score_eu": -0.04938271641731262,
+        "score_au": -1.081397533416748
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6851223707199097,
+        "score_entropy": -0.9602424502372742,
+        "score_product": -0.050706759095191956,
+        "score_eu": -0.046875,
+        "score_au": -1.0817441940307617
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.42624205350875854,
+        "score_entropy": -1.3458060026168823,
+        "score_product": -0.05307603490153312,
+        "score_eu": -0.04907975345849991,
+        "score_au": -1.0814242362976074
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6736822724342346,
+        "score_entropy": -1.0515059232711792,
+        "score_product": -0.05271786981836257,
+        "score_eu": -0.04878048598766327,
+        "score_au": -1.0807163715362549
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8047798275947571,
+        "score_entropy": -0.7606185674667358,
+        "score_product": -0.05286350027718045,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.0792964696884155
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5347899198532104,
+        "score_entropy": -1.219809889793396,
+        "score_product": -0.054006177991720694,
+        "score_eu": -0.05000000074505806,
+        "score_au": -1.0801235437393188
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.746709942817688,
+        "score_entropy": -0.8142622113227844,
+        "score_product": -0.051688370592302135,
+        "score_eu": -0.04780876636505127,
+        "score_au": -1.081148386001587
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4559828042984009,
+        "score_entropy": -1.1376208066940308,
+        "score_product": -0.055658634930206397,
+        "score_eu": -0.05161290243268013,
+        "score_au": -1.0783860683441162
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9429817199707031,
+        "score_entropy": -0.35196566581726074,
+        "score_product": -0.053893273643145,
+        "score_eu": -0.05010438337922096,
+        "score_au": -1.0756199359893799
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5425732135772705,
+        "score_entropy": -1.2310587167739868,
+        "score_product": -0.05082076458476337,
+        "score_eu": -0.046966731548309326,
+        "score_au": -1.0820587873458862
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.837781548500061,
+        "score_entropy": -0.6847561597824097,
+        "score_product": -0.05320248401269545,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.0795670747756958
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.8566464781761169,
+        "score_entropy": -0.8314398527145386,
+        "score_product": -0.0605591001643524,
+        "score_eu": -0.0564042292535305,
+        "score_au": -1.0736624002456665
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5958244204521179,
+        "score_entropy": -0.9432101249694824,
+        "score_product": -0.055027805777337235,
+        "score_eu": -0.05106382817029953,
+        "score_au": -1.0776278972625732
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6836626529693604,
+        "score_entropy": -0.9156365394592285,
+        "score_product": -0.052972821599545306,
+        "score_eu": -0.04907975345849991,
+        "score_au": -1.079321265220642
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.3960791826248169,
+        "score_entropy": -1.2845072746276855,
+        "score_product": -0.050440410405184544,
+        "score_eu": -0.04660193994641304,
+        "score_au": -1.082367181777954
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7133268117904663,
+        "score_entropy": -0.9213547706604004,
+        "score_product": -0.05179553310534146,
+        "score_eu": -0.04790419340133667,
+        "score_au": -1.081231713294983
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5463061928749084,
+        "score_entropy": -1.261542558670044,
+        "score_product": -0.052123021861241625,
+        "score_eu": -0.048192769289016724,
+        "score_au": -1.0815527439117432
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5535359978675842,
+        "score_entropy": -0.9832775592803955,
+        "score_product": -0.05246106175435372,
+        "score_eu": -0.04858299717307091,
+        "score_au": -1.0798234939575195
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5476290583610535,
+        "score_entropy": -1.6395059823989868,
+        "score_product": -0.057197229698418894,
+        "score_eu": -0.05298013240098953,
+        "score_au": -1.0795977115631104
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5042965412139893,
+        "score_entropy": -1.1561384201049805,
+        "score_product": -0.05295637258491537,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.0811926126480103
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4271192252635956,
+        "score_entropy": -1.1397316455841064,
+        "score_product": -0.0513090068682196,
+        "score_eu": -0.04743082821369171,
+        "score_au": -1.0817649364471436
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5589698553085327,
+        "score_entropy": -1.072950839996338,
+        "score_product": -0.052496807167484505,
+        "score_eu": -0.04858299717307091,
+        "score_au": -1.080559253692627
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7461528778076172,
+        "score_entropy": -0.9662142992019653,
+        "score_product": -0.056484421120939654,
+        "score_eu": -0.052401747554540634,
+        "score_au": -1.0779110193252563
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.606330156326294,
+        "score_entropy": -0.9407598376274109,
+        "score_product": -0.05156261436556253,
+        "score_eu": -0.04771371930837631,
+        "score_au": -1.080666422843933
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9528020024299622,
+        "score_entropy": -0.2911308705806732,
+        "score_product": -0.056084427069087894,
+        "score_eu": -0.052173912525177,
+        "score_au": -1.0749515295028687
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7226055860519409,
+        "score_entropy": -0.873030960559845,
+        "score_product": -0.05137906754150645,
+        "score_eu": -0.04752475395798683,
+        "score_au": -1.0811011791229248
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5297446846961975,
+        "score_entropy": -0.9725226163864136,
+        "score_product": -0.05204427479275964,
+        "score_eu": -0.048192769289016724,
+        "score_au": -1.0799187421798706
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.3913525342941284,
+        "score_entropy": -1.3451939821243286,
+        "score_product": -0.051017066071823436,
+        "score_eu": -0.04715127870440483,
+        "score_au": -1.081986904144287
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.500522255897522,
+        "score_entropy": -1.0965723991394043,
+        "score_product": -0.05157641325603901,
+        "score_eu": -0.04771371930837631,
+        "score_au": -1.0809556245803833
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4563639461994171,
+        "score_entropy": -1.146681308746338,
+        "score_product": -0.052427423146424346,
+        "score_eu": -0.04848484694957733,
+        "score_au": -1.0813156366348267
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7171526551246643,
+        "score_entropy": -0.9310134649276733,
+        "score_product": -0.05229840199673319,
+        "score_eu": -0.04838709533214569,
+        "score_au": -1.0808336734771729
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8153391480445862,
+        "score_entropy": -0.769710898399353,
+        "score_product": -0.053958434670544175,
+        "score_eu": -0.05000000074505806,
+        "score_au": -1.079168677330017
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5035353302955627,
+        "score_entropy": -1.1419909000396729,
+        "score_product": -0.05295637258491537,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.0811926126480103
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.6229947209358215,
+        "score_entropy": -1.2347065210342407,
+        "score_product": -0.055274358740837304,
+        "score_eu": -0.051172707229852676,
+        "score_au": -1.0801531076431274
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.616820216178894,
+        "score_entropy": -0.9468107223510742,
+        "score_product": -0.05370537851439483,
+        "score_eu": -0.04979253187775612,
+        "score_au": -1.078583002090454
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.6154101490974426,
+        "score_entropy": -1.1085518598556519,
+        "score_product": -0.05347612908572685,
+        "score_eu": -0.04948453605175018,
+        "score_au": -1.0806634426116943
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5162392258644104,
+        "score_entropy": -1.0399255752563477,
+        "score_product": -0.05176399903485418,
+        "score_eu": -0.04790419340133667,
+        "score_au": -1.0805734395980835
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.48927196860313416,
+        "score_entropy": -1.2530713081359863,
+        "score_product": -0.0532615844044404,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.0807663202285767
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7023462057113647,
+        "score_entropy": -1.0098932981491089,
+        "score_product": -0.05445560565142671,
+        "score_eu": -0.05042016878724098,
+        "score_au": -1.0800361633300781
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.31984591484069824,
+        "score_entropy": -1.4842250347137451,
+        "score_product": -0.053084237670615764,
+        "score_eu": -0.04907975345849991,
+        "score_au": -1.0815913677215576
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.9284313917160034,
+        "score_entropy": -0.37892162799835205,
+        "score_product": -0.052180673213158,
+        "score_eu": -0.04838709533214569,
+        "score_au": -1.0784006118774414
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7727359533309937,
+        "score_entropy": -0.8940666317939758,
+        "score_product": -0.05476031923179647,
+        "score_eu": -0.05073995888233185,
+        "score_au": -1.0792346000671387
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7149563431739807,
+        "score_entropy": -1.0697541236877441,
+        "score_product": -0.054557233636629565,
+        "score_eu": -0.050526317209005356,
+        "score_au": -1.0797785520553589
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.3715944290161133,
+        "score_entropy": -1.3982875347137451,
+        "score_product": -0.05254547930811171,
+        "score_eu": -0.04858299717307091,
+        "score_au": -1.0815610885620117
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5951635241508484,
+        "score_entropy": -1.1491317749023438,
+        "score_product": -0.05546815220987078,
+        "score_eu": -0.05139186233282089,
+        "score_au": -1.0793178081512451
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.6824721097946167,
+        "score_entropy": -1.0229697227478027,
+        "score_product": -0.05231142657259369,
+        "score_eu": -0.04838709533214569,
+        "score_au": -1.0811028480529785
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5576517581939697,
+        "score_entropy": -1.1135903596878052,
+        "score_product": -0.050508848796435135,
+        "score_eu": -0.046692606061697006,
+        "score_au": -1.0817312002182007
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7054928541183472,
+        "score_entropy": -1.0178327560424805,
+        "score_product": -0.053575320444476215,
+        "score_eu": -0.04958677664399147,
+        "score_au": -1.0804356336593628
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5847468376159668,
+        "score_entropy": -1.175733208656311,
+        "score_product": -0.05315326968253942,
+        "score_eu": -0.04918032884597778,
+        "score_au": -1.0807831287384033
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.36884430050849915,
+        "score_entropy": -1.3827126026153564,
+        "score_product": -0.053190316412816685,
+        "score_eu": -0.04918032884597778,
+        "score_au": -1.0815364122390747
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5140303373336792,
+        "score_entropy": -1.4101641178131104,
+        "score_product": -0.055518976719719504,
+        "score_eu": -0.05139186233282089,
+        "score_au": -1.0803067684173584
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.42654383182525635,
+        "score_entropy": -1.4246878623962402,
+        "score_product": -0.052865939847533294,
+        "score_eu": -0.04887983575463295,
+        "score_au": -1.081549048423767
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.578078031539917,
+        "score_entropy": -1.1772651672363281,
+        "score_product": -0.05272828463932022,
+        "score_eu": -0.04878048598766327,
+        "score_au": -1.0809298753738403
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5403411984443665,
+        "score_entropy": -1.2769924402236938,
+        "score_product": -0.052960611569915717,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.0812791585922241
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8085580468177795,
+        "score_entropy": -0.7614550590515137,
+        "score_product": -0.0525795729371179,
+        "score_eu": -0.04868154227733612,
+        "score_au": -1.080072045326233
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.4361448287963867,
+        "score_entropy": -1.2593717575073242,
+        "score_product": -0.051602981523728886,
+        "score_eu": -0.04771371930837631,
+        "score_au": -1.081512451171875
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.664547860622406,
+        "score_entropy": -1.0423288345336914,
+        "score_product": -0.05592319259610923,
+        "score_eu": -0.05183585360646248,
+        "score_au": -1.078851580619812
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.8251093626022339,
+        "score_entropy": -0.7555678486824036,
+        "score_product": -0.05407845170819536,
+        "score_eu": -0.05010438337922096,
+        "score_au": -1.0793157815933228
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5365551710128784,
+        "score_entropy": -0.9587680697441101,
+        "score_product": -0.05421475757460836,
+        "score_eu": -0.050314463675022125,
+        "score_au": -1.077518343925476
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9068706631660461,
+        "score_entropy": -0.4566985070705414,
+        "score_product": -0.05413649832688128,
+        "score_eu": -0.050209205597639084,
+        "score_au": -1.0782185792922974
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5545507073402405,
+        "score_entropy": -1.2196675539016724,
+        "score_product": -0.052011085262866796,
+        "score_eu": -0.0480961911380291,
+        "score_au": -1.0813971757888794
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4669719338417053,
+        "score_entropy": -1.2965514659881592,
+        "score_product": -0.0528544316598083,
+        "score_eu": -0.04887983575463295,
+        "score_au": -1.0813136100769043
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.3189316391944885,
+        "score_entropy": -1.3686676025390625,
+        "score_product": -0.05163064187178623,
+        "score_eu": -0.04771371930837631,
+        "score_au": -1.0820921659469604
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.6025469899177551,
+        "score_entropy": -1.0851246118545532,
+        "score_product": -0.05130984934332439,
+        "score_eu": -0.04743082821369171,
+        "score_au": -1.0817826986312866
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6848989725112915,
+        "score_entropy": -0.9928475022315979,
+        "score_product": -0.05228898830860018,
+        "score_eu": -0.04838709533214569,
+        "score_au": -1.080639123916626
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4264146089553833,
+        "score_entropy": -1.1593890190124512,
+        "score_product": -0.050611635774835406,
+        "score_eu": -0.046783626079559326,
+        "score_au": -1.081823706626892
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5653253197669983,
+        "score_entropy": -1.103793978691101,
+        "score_product": -0.05200063306907676,
+        "score_eu": -0.0480961911380291,
+        "score_au": -1.0811798572540283
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8488755226135254,
+        "score_entropy": -0.6720696091651917,
+        "score_product": -0.053734796003921836,
+        "score_eu": -0.04979253187775612,
+        "score_au": -1.0791738033294678
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6589547991752625,
+        "score_entropy": -1.0834542512893677,
+        "score_product": -0.05488800205511346,
+        "score_eu": -0.050847455859184265,
+        "score_au": -1.079464077949524
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.4172918498516083,
+        "score_entropy": -1.3829702138900757,
+        "score_product": -0.05415688196243451,
+        "score_eu": -0.05010438337922096,
+        "score_au": -1.080881118774414
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4852560758590698,
+        "score_entropy": -1.0238194465637207,
+        "score_product": -0.05137957176140828,
+        "score_eu": -0.04752475395798683,
+        "score_au": -1.0811117887496948
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.48904675245285034,
+        "score_entropy": -1.330268383026123,
+        "score_product": -0.0522336155700609,
+        "score_eu": -0.04828973859548569,
+        "score_au": -1.081671118736267
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8770344257354736,
+        "score_entropy": -0.5871155261993408,
+        "score_product": -0.052303670903139476,
+        "score_eu": -0.04848484694957733,
+        "score_au": -1.0787632465362549
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8825043439865112,
+        "score_entropy": -0.556711733341217,
+        "score_product": -0.05305690362690285,
+        "score_eu": -0.04918032884597778,
+        "score_au": -1.0788236856460571
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4972788691520691,
+        "score_entropy": -1.2930428981781006,
+        "score_product": -0.050627736697478554,
+        "score_eu": -0.046783626079559326,
+        "score_au": -1.0821678638458252
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.851847231388092,
+        "score_entropy": -0.8710757493972778,
+        "score_product": -0.06021359502193713,
+        "score_eu": -0.056009333580732346,
+        "score_au": -1.0750635862350464
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6253358721733093,
+        "score_entropy": -1.0330547094345093,
+        "score_product": -0.05701394396302861,
+        "score_eu": -0.05286343768239021,
+        "score_au": -1.078513741493225
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.9360066056251526,
+        "score_entropy": -0.33257389068603516,
+        "score_product": -0.05483767559017494,
+        "score_eu": -0.05106382817029953,
+        "score_au": -1.0739045143127441
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.43485069274902344,
+        "score_entropy": -1.6242488622665405,
+        "score_product": -0.05873092206513775,
+        "score_eu": -0.05448354035615921,
+        "score_au": -1.0779571533203125
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.833051323890686,
+        "score_entropy": -0.647811770439148,
+        "score_product": -0.05386579116978929,
+        "score_eu": -0.05000000074505806,
+        "score_au": -1.0773158073425293
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7513046860694885,
+        "score_entropy": -0.8567112684249878,
+        "score_product": -0.054316584796694656,
+        "score_eu": -0.050314463675022125,
+        "score_au": -1.0795421600341797
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9876596331596375,
+        "score_entropy": -0.09917125850915909,
+        "score_product": -0.05533989531939243,
+        "score_eu": -0.051779936999082565,
+        "score_au": -1.0687516927719116
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.29038339853286743,
+        "score_entropy": -2.274620294570923,
+        "score_product": -0.05849604390343055,
+        "score_eu": -0.054176073521375656,
+        "score_au": -1.0797394514083862
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5414247512817383,
+        "score_entropy": -1.034663438796997,
+        "score_product": -0.05071526952087879,
+        "score_eu": -0.046875,
+        "score_au": -1.0819257497787476
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7589952945709229,
+        "score_entropy": -0.9632662534713745,
+        "score_product": -0.0564021696785133,
+        "score_eu": -0.05228758230805397,
+        "score_au": -1.0786914825439453
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.789162814617157,
+        "score_entropy": -0.8405938148498535,
+        "score_product": -0.053330315881282786,
+        "score_eu": -0.04938271641731262,
+        "score_au": -1.0799388885498047
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4429348111152649,
+        "score_entropy": -1.1756303310394287,
+        "score_product": -0.05192015120814375,
+        "score_eu": -0.04800000041723251,
+        "score_au": -1.081669807434082
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.608251690864563,
+        "score_entropy": -1.100569486618042,
+        "score_product": -0.05467303932629797,
+        "score_eu": -0.050632912665605545,
+        "score_au": -1.0797924995422363
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.3844364583492279,
+        "score_entropy": -1.336529016494751,
+        "score_product": -0.050930882496338814,
+        "score_eu": -0.0470588244497776,
+        "score_au": -1.082281231880188
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8724959492683411,
+        "score_entropy": -0.5790718197822571,
+        "score_product": -0.05505345758654201,
+        "score_eu": -0.05106382817029953,
+        "score_au": -1.0781302452087402
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8283835053443909,
+        "score_entropy": -0.7102464437484741,
+        "score_product": -0.05215630462772847,
+        "score_eu": -0.04828973859548569,
+        "score_au": -1.0800701379776
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8203511238098145,
+        "score_entropy": -0.691426694393158,
+        "score_product": -0.05267440204245055,
+        "score_eu": -0.04878048598766327,
+        "score_au": -1.0798252820968628
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.32815083861351013,
+        "score_entropy": -1.5155060291290283,
+        "score_product": -0.05308218990372637,
+        "score_eu": -0.04907975345849991,
+        "score_au": -1.0815496444702148
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4654717445373535,
+        "score_entropy": -1.3106452226638794,
+        "score_product": -0.051618162578420446,
+        "score_eu": -0.04771371930837631,
+        "score_au": -1.081830620765686
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8773695826530457,
+        "score_entropy": -0.6665619611740112,
+        "score_product": -0.05829172940191585,
+        "score_eu": -0.054176073521375656,
+        "score_au": -1.0759681463241577
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4643380641937256,
+        "score_entropy": -1.6958023309707642,
+        "score_product": -0.05720734117245296,
+        "score_eu": -0.05298013240098953,
+        "score_au": -1.0797885656356812
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.8244200944900513,
+        "score_entropy": -0.6885371804237366,
+        "score_product": -0.05321458020619474,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.0798125267028809
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.6974287033081055,
+        "score_entropy": -0.8515675663948059,
+        "score_product": -0.050393972949052124,
+        "score_eu": -0.04660193994641304,
+        "score_au": -1.0813707113265991
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6488630771636963,
+        "score_entropy": -0.8624115586280823,
+        "score_product": -0.051826046440480056,
+        "score_eu": -0.04800000041723251,
+        "score_au": -1.0797092914581299
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7520958185195923,
+        "score_entropy": -1.0612914562225342,
+        "score_product": -0.055931182450768446,
+        "score_eu": -0.05183585360646248,
+        "score_au": -1.0790057182312012
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9101415276527405,
+        "score_entropy": -0.4935285449028015,
+        "score_product": -0.05636365221798556,
+        "score_eu": -0.052401747554540634,
+        "score_au": -1.075606346130371
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5388610363006592,
+        "score_entropy": -1.2620093822479248,
+        "score_product": -0.05457109303450558,
+        "score_eu": -0.050526317209005356,
+        "score_au": -1.0800528526306152
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.31490522623062134,
+        "score_entropy": -1.4088473320007324,
+        "score_product": -0.05083434744508253,
+        "score_eu": -0.046966731548309326,
+        "score_au": -1.0823479890823364
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.740123450756073,
+        "score_entropy": -0.8525552153587341,
+        "score_product": -0.053647800520767674,
+        "score_eu": -0.04968944191932678,
+        "score_au": -1.0796619653701782
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9405249357223511,
+        "score_entropy": -0.38662052154541016,
+        "score_product": -0.05766032072969818,
+        "score_eu": -0.05369127541780472,
+        "score_au": -1.0739234685897827
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5967217683792114,
+        "score_entropy": -1.183857798576355,
+        "score_product": -0.05211335872786549,
+        "score_eu": -0.048192769289016724,
+        "score_au": -1.0813522338867188
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.42294952273368835,
+        "score_entropy": -1.4585117101669312,
+        "score_product": -0.052132598819230935,
+        "score_eu": -0.048192769289016724,
+        "score_au": -1.0817514657974243
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5533704161643982,
+        "score_entropy": -1.5631344318389893,
+        "score_product": -0.05794468849077816,
+        "score_eu": -0.05369127541780472,
+        "score_au": -1.0792198181152344
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9050470590591431,
+        "score_entropy": -0.5362332463264465,
+        "score_product": -0.05626851814302025,
+        "score_eu": -0.05228758230805397,
+        "score_au": -1.0761353969573975
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.35828930139541626,
+        "score_entropy": -1.5270299911499023,
+        "score_product": -0.05472742290735422,
+        "score_eu": -0.050632912665605545,
+        "score_au": -1.0808665752410889
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5867024064064026,
+        "score_entropy": -1.1067923307418823,
+        "score_product": -0.05455829974415849,
+        "score_eu": -0.050526317209005356,
+        "score_au": -1.0797996520996094
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.48320406675338745,
+        "score_entropy": -1.2851994037628174,
+        "score_product": -0.052644337676609254,
+        "score_eu": -0.04868154227733612,
+        "score_au": -1.0814024209976196
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4087022542953491,
+        "score_entropy": -1.344089150428772,
+        "score_product": -0.05193295142492982,
+        "score_eu": -0.04800000041723251,
+        "score_au": -1.0819364786148071
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5283242464065552,
+        "score_entropy": -1.1622501611709595,
+        "score_product": -0.05119807970337931,
+        "score_eu": -0.047337278723716736,
+        "score_au": -1.081559419631958
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.444770485162735,
+        "score_entropy": -1.2287414073944092,
+        "score_product": -0.05102131544987287,
+        "score_eu": -0.04715127870440483,
+        "score_au": -1.0820770263671875
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7484672665596008,
+        "score_entropy": -1.0587568283081055,
+        "score_product": -0.05752257168502872,
+        "score_eu": -0.0533333346247673,
+        "score_au": -1.0785481929779053
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.49960482120513916,
+        "score_entropy": -1.0113487243652344,
+        "score_product": -0.05361183929789348,
+        "score_eu": -0.04968944191932678,
+        "score_au": -1.0789382457733154
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.8299452066421509,
+        "score_entropy": -0.5817356705665588,
+        "score_product": -0.05216785629218279,
+        "score_eu": -0.04838709533214569,
+        "score_au": -1.0781357288360596
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.38707199692726135,
+        "score_entropy": -1.4437307119369507,
+        "score_product": -0.05297407005535071,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.0815539360046387
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5283856391906738,
+        "score_entropy": -1.0894570350646973,
+        "score_product": -0.05179358578226356,
+        "score_eu": -0.04790419340133667,
+        "score_au": -1.081191062927246
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6311338543891907,
+        "score_entropy": -1.2104706764221191,
+        "score_product": -0.053477851598511705,
+        "score_eu": -0.04948453605175018,
+        "score_au": -1.0806982517242432
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.3657875061035156,
+        "score_entropy": -1.5324244499206543,
+        "score_product": -0.05373133291493204,
+        "score_eu": -0.04968944191932678,
+        "score_au": -1.0813430547714233
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.4360392093658447,
+        "score_entropy": -1.245059609413147,
+        "score_product": -0.05411195374886457,
+        "score_eu": -0.05010438337922096,
+        "score_au": -1.079984426498413
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5971924662590027,
+        "score_entropy": -0.9834523797035217,
+        "score_product": -0.05105708884194815,
+        "score_eu": -0.04724409431219101,
+        "score_au": -1.080708384513855
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.4701644778251648,
+        "score_entropy": -1.1229459047317505,
+        "score_product": -0.052391484075444694,
+        "score_eu": -0.04848484694957733,
+        "score_au": -1.0805743932724
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7337047457695007,
+        "score_entropy": -0.8565925359725952,
+        "score_product": -0.0531995289931082,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.0795071125030518
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5418998599052429,
+        "score_entropy": -1.15687894821167,
+        "score_product": -0.05212746851120187,
+        "score_eu": -0.048192769289016724,
+        "score_au": -1.0816450119018555
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7652776837348938,
+        "score_entropy": -0.8593409657478333,
+        "score_product": -0.054559552571085135,
+        "score_eu": -0.050526317209005356,
+        "score_au": -1.079824447631836
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.528932511806488,
+        "score_entropy": -1.212976098060608,
+        "score_product": -0.05361283885889723,
+        "score_eu": -0.04958677664399147,
+        "score_au": -1.0811922550201416
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7066565752029419,
+        "score_entropy": -0.7728057503700256,
+        "score_product": -0.05209690817925594,
+        "score_eu": -0.04828973859548569,
+        "score_au": -1.0788401365280151
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5823994278907776,
+        "score_entropy": -1.2039344310760498,
+        "score_product": -0.05371448071939966,
+        "score_eu": -0.04968944191932678,
+        "score_au": -1.0810039043426514
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4684186577796936,
+        "score_entropy": -1.2171965837478638,
+        "score_product": -0.05090377009597802,
+        "score_eu": -0.0470588244497776,
+        "score_au": -1.081705093383789
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.39429885149002075,
+        "score_entropy": -1.4610532522201538,
+        "score_product": -0.05339396481205938,
+        "score_eu": -0.04938271641731262,
+        "score_au": -1.0812277793884277
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8689350485801697,
+        "score_entropy": -0.609970211982727,
+        "score_product": -0.05394214472088432,
+        "score_eu": -0.05000000074505806,
+        "score_au": -1.0788428783416748
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.6796747446060181,
+        "score_entropy": -0.9687144756317139,
+        "score_product": -0.05120094072636583,
+        "score_eu": -0.047337278723716736,
+        "score_au": -1.0816198587417603
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5677999258041382,
+        "score_entropy": -0.9899457097053528,
+        "score_product": -0.052931067129004195,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.0806759595870972
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.34637701511383057,
+        "score_entropy": -1.4693092107772827,
+        "score_product": -0.051831812705088964,
+        "score_eu": -0.04790419340133667,
+        "score_au": -1.081989049911499
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5469308495521545,
+        "score_entropy": -1.2384437322616577,
+        "score_product": -0.05415851853921172,
+        "score_eu": -0.05010438337922096,
+        "score_au": -1.080913782119751
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.42801806330680847,
+        "score_entropy": -1.5988212823867798,
+        "score_product": -0.05506923781894102,
+        "score_eu": -0.05095541477203369,
+        "score_au": -1.0807337760925293
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7842081785202026,
+        "score_entropy": -0.7790217995643616,
+        "score_product": -0.053023658875265056,
+        "score_eu": -0.04907975345849991,
+        "score_au": -1.0803570747375488
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.46208176016807556,
+        "score_entropy": -1.3460595607757568,
+        "score_product": -0.05234109814842469,
+        "score_eu": -0.04838709533214569,
+        "score_au": -1.0817160606384277
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6130515933036804,
+        "score_entropy": -1.2394030094146729,
+        "score_product": -0.05618548311353955,
+        "score_eu": -0.05206073820590973,
+        "score_au": -1.079229474067688
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.4339714050292969,
+        "score_entropy": -1.2713236808776855,
+        "score_product": -0.055935619199140696,
+        "score_eu": -0.05183585360646248,
+        "score_au": -1.0790913105010986
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7392899990081787,
+        "score_entropy": -0.9214345216751099,
+        "score_product": -0.05378206224062554,
+        "score_eu": -0.04979253187775612,
+        "score_au": -1.0801230669021606
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7890821695327759,
+        "score_entropy": -0.6988730430603027,
+        "score_product": -0.050562167404955005,
+        "score_eu": -0.046783626079559326,
+        "score_au": -1.0807663202285767
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4204433262348175,
+        "score_entropy": -1.3013807535171509,
+        "score_product": -0.05285574854609987,
+        "score_eu": -0.04887983575463295,
+        "score_au": -1.0813405513763428
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.8234049081802368,
+        "score_entropy": -0.6561174988746643,
+        "score_product": -0.05456769314525545,
+        "score_eu": -0.05073995888233185,
+        "score_au": -1.0754382610321045
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5321754813194275,
+        "score_entropy": -1.3216406106948853,
+        "score_product": -0.05338577027713143,
+        "score_eu": -0.04938271641731262,
+        "score_au": -1.081061840057373
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6469061970710754,
+        "score_entropy": -0.9773874878883362,
+        "score_product": -0.05333525497237801,
+        "score_eu": -0.04938271641731262,
+        "score_au": -1.0800389051437378
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.24764330685138702,
+        "score_entropy": -1.978514552116394,
+        "score_product": -0.056859067035475164,
+        "score_eu": -0.05263157933950424,
+        "score_au": -1.080322265625
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.3438419699668884,
+        "score_entropy": -1.4393659830093384,
+        "score_product": -0.05329357263834211,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.0814154148101807
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5194491147994995,
+        "score_entropy": -1.2975927591323853,
+        "score_product": -0.05371863897643436,
+        "score_eu": -0.04968944191932678,
+        "score_au": -1.081087589263916
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5715450644493103,
+        "score_entropy": -1.0487796068191528,
+        "score_product": -0.05421199222410511,
+        "score_eu": -0.050209205597639084,
+        "score_au": -1.0797221660614014
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4637574553489685,
+        "score_entropy": -1.2128093242645264,
+        "score_product": -0.05424752158063573,
+        "score_eu": -0.050209205597639084,
+        "score_au": -1.0804297924041748
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9094714522361755,
+        "score_entropy": -0.41316765546798706,
+        "score_product": -0.05236342789587045,
+        "score_eu": -0.04858299717307091,
+        "score_au": -1.0778138637542725
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.3701608180999756,
+        "score_entropy": -1.426455020904541,
+        "score_product": -0.05265830620061962,
+        "score_eu": -0.04868154227733612,
+        "score_au": -1.0816893577575684
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6522767543792725,
+        "score_entropy": -1.0427765846252441,
+        "score_product": -0.0532676060646331,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.0808885097503662
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6394053101539612,
+        "score_entropy": -1.2589274644851685,
+        "score_product": -0.05667611403052941,
+        "score_eu": -0.05251641198992729,
+        "score_au": -1.0792076587677002
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5822611451148987,
+        "score_entropy": -1.1910947561264038,
+        "score_product": -0.052223328551896486,
+        "score_eu": -0.04828973859548569,
+        "score_au": -1.0814580917358398
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.49263450503349304,
+        "score_entropy": -1.139572262763977,
+        "score_product": -0.05209153911992104,
+        "score_eu": -0.048192769289016724,
+        "score_au": -1.0808994770050049
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7194965481758118,
+        "score_entropy": -1.3392484188079834,
+        "score_product": -0.059302707710031655,
+        "score_eu": -0.055045872926712036,
+        "score_au": -1.0773324966430664
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9070177674293518,
+        "score_entropy": -0.6217505931854248,
+        "score_product": -0.06074696901378829,
+        "score_eu": -0.05667060241103172,
+        "score_au": -1.0719308853149414
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7270707488059998,
+        "score_entropy": -1.7408647537231445,
+        "score_product": -0.06820238835159032,
+        "score_eu": -0.06366048008203506,
+        "score_au": -1.0713458061218262
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.38760000467300415,
+        "score_entropy": -1.4070203304290771,
+        "score_product": -0.05122566289935193,
+        "score_eu": -0.047337278723716736,
+        "score_au": -1.0821421146392822
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5343220233917236,
+        "score_entropy": -0.9620309472084045,
+        "score_product": -0.05317496061952198,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.0790085792541504
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5837093591690063,
+        "score_entropy": -1.0692635774612427,
+        "score_product": -0.05160441487921119,
+        "score_eu": -0.04771371930837631,
+        "score_au": -1.0815424919128418
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.49027517437934875,
+        "score_entropy": -1.3036643266677856,
+        "score_product": -0.05286124916848589,
+        "score_eu": -0.04887983575463295,
+        "score_au": -1.0814530849456787
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4154389798641205,
+        "score_entropy": -1.2278237342834473,
+        "score_product": -0.05112194620446875,
+        "score_eu": -0.04724409431219101,
+        "score_au": -1.0820811986923218
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.4645133316516876,
+        "score_entropy": -1.2187411785125732,
+        "score_product": -0.05053350146255653,
+        "score_eu": -0.046692606061697006,
+        "score_au": -1.082259178161621
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.49429112672805786,
+        "score_entropy": -0.9717209339141846,
+        "score_product": -0.0511738879764696,
+        "score_eu": -0.047337278723716736,
+        "score_au": -1.0810483694076538
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.8158771395683289,
+        "score_entropy": -0.7287600636482239,
+        "score_product": -0.05287057692982566,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.079440951347351
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.9195042848587036,
+        "score_entropy": -0.4072594940662384,
+        "score_product": -0.052822605165689485,
+        "score_eu": -0.04897959157824516,
+        "score_au": -1.0784615278244019
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.45080140233039856,
+        "score_entropy": -1.4167600870132446,
+        "score_product": -0.05275783109676624,
+        "score_eu": -0.04878048598766327,
+        "score_au": -1.0815355777740479
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.4558539390563965,
+        "score_entropy": -1.0921026468276978,
+        "score_product": -0.051712917258058155,
+        "score_eu": -0.04780876636505127,
+        "score_au": -1.0816618204116821
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.856298565864563,
+        "score_entropy": -0.5998127460479736,
+        "score_product": -0.053143736108376416,
+        "score_eu": -0.04928131401538849,
+        "score_au": -1.078374981880188
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.6121659278869629,
+        "score_entropy": -1.153275489807129,
+        "score_product": -0.05211730556058214,
+        "score_eu": -0.048192769289016724,
+        "score_au": -1.0814341306686401
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.5868748426437378,
+        "score_entropy": -1.1381402015686035,
+        "score_product": -0.05042893853690922,
+        "score_eu": -0.04660193994641304,
+        "score_au": -1.0821210145950317
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.39753296971321106,
+        "score_entropy": -1.3268996477127075,
+        "score_product": -0.05213836108009673,
+        "score_eu": -0.048192769289016724,
+        "score_au": -1.0818710327148438
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.47178468108177185,
+        "score_entropy": -1.3789112567901611,
+        "score_product": -0.05504914991441012,
+        "score_eu": -0.05095541477203369,
+        "score_au": -1.0803395509719849
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.5789363384246826,
+        "score_entropy": -1.2229458093643188,
+        "score_product": -0.053493047464723276,
+        "score_eu": -0.04948453605175018,
+        "score_au": -1.081005334854126
+    },
+    {
+        "is_correct": true,
+        "score_prob": 0.7187100648880005,
+        "score_entropy": -1.0251432657241821,
+        "score_product": -0.05229214350921829,
+        "score_eu": -0.04838709533214569,
+        "score_au": -1.0807043313980103
+    },
+    {
+        "is_correct": false,
+        "score_prob": 0.7313150763511658,
+        "score_entropy": -1.1661038398742676,
+        "score_product": -0.057136024017679254,
+        "score_eu": -0.05298013240098953,
+        "score_au": -1.0784424543380737
+    }
+]
